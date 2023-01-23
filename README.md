@@ -18,7 +18,7 @@ Maximal F-1 Score: Decrease Prediction Thresholds
 ### Interpret the result: 
 *  Visualization (correlation Map and Bar charts)
 *  Fraud-detection Score (label as low, medium and high groups)
-*  Split data into 10 groups and compare density of target labels
+*  Identify Fraud Groups - for important columns, split data into 10 groups and compare density of target labels
 
 ### Business Suggesstions: 
 *  The system reduces the cost of organization/groups, and detect fraud transactions better than human

@@ -15,7 +15,7 @@ and mitigate the impact of this crime.
 Technical: Extra Data, Data imputation by mode, create new column with null/not null, Correlation, Min-max Scaler, Frequency Encoding, XGBoost (setting weighted by label), Fine-tuning to maximize AUC-ROC.
 Maximal F-1 Score: Decrease Prediction Thresholds
 
-### Interpret the result: 
+### Interpret The Result: 
 *  Visualization (correlation Map and Bar charts)
 *  Fraud-detection Score (label as low, medium and high groups)
 *  Identify Fraud Groups - for important columns, split data into 10 groups and compare density of target labels
